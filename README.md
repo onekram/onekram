@@ -1,7 +1,7 @@
 ### Hi there, I'm [Ivan](https://t.me/aka1kram) :boar:
 
 
-#### I am highly motivated student from Saint-Petersburg interested in Computer Science and Software Enginering!
+#### I am highly motivated student from Saint-Petersburg interested in Computer Science and Software Engineering!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=CT+ITMO+student)](https://git.io/typing-svg)
 
 ### Top languages:
