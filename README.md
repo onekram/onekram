@@ -14,6 +14,7 @@
 ## My repos: 
 - [hamarch](https://github.com/onekram/hamarch)
 - [asm-arithmetic](https://github.com/onekram/asm-arithmetic)
+- [paradigms](https://github.com/onekram/paradigms)
 
 
 ## LeetCode Stats
