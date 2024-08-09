@@ -16,6 +16,7 @@
 - [asm-arithmetic](https://github.com/onekram/asm-arithmetic)
 - [paradigms](https://github.com/onekram/paradigms)
 - [bitset](https://github.com/onekram/bitset)
+- [socow-vector](https://github.com/onekram/socow-vector)
 
 
 ## LeetCode Stats
