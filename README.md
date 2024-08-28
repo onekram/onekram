@@ -7,6 +7,9 @@
 ## Top languages:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onekram&layout=donut-vertical)
 
+## My skills:
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,sqlite,flask,linux)](https://skillicons.dev)
+
 ## Connect with me:
 - [Telegram](https://t.me/aka1kram) 
 - [VK](https://vk.com/onekram)
