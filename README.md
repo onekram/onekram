@@ -13,9 +13,8 @@
 
 ## My repos: 
 - [hamarch](https://github.com/onekram/hamarch)
-- [asm-arithmetic](https://github.com/onekram/asm-arithmetic)
-- [paradigms](https://github.com/onekram/paradigms)
 - [bitset](https://github.com/onekram/bitset)
+- [paradigms](https://github.com/onekram/paradigms)
 - [socow-vector](https://github.com/onekram/socow-vector)
 
 
