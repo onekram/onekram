@@ -8,17 +8,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onekram&layout=donut-vertical)
 
 ## My skills:
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,sqlite,flask,linux)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring)
 
 ## Connect with me:
-- [Telegram](https://t.me/aka1kram) 
-- [VK](https://vk.com/onekram)
+- [Telegram](https://t.me/aka1kram)
 
 ## My repos: 
 - [hamarch](https://github.com/onekram/hamarch)
 - [bitset](https://github.com/onekram/bitset)
 - [paradigms](https://github.com/onekram/paradigms)
-- [socow-vector](https://github.com/onekram/socow-vector)
+- [game](https://github.com/onekram/game)
 
 
 ## LeetCode Stats
