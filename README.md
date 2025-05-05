@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onekram&layout=donut-vertical)
 
 ## My skills:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,postgresql)
 
 ## Connect with me:
 - [Telegram](https://t.me/aka1kram)
